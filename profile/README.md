@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/yanawa/.github/main/profile/assets/yanawa-icon.png" alt="yanawa" width="180">
 </p>
 
-<h1 align="center">yanawa</h1>
-
 <p align="center">
   <strong>Strong typing, less ceremony.</strong>
 </p>
